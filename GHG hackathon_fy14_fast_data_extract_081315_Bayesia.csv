@@ -1,0 +1,153 @@
+agyParentName,agyAbbrev,vehType,vehCount,GGE_E85,GGE_Gas,GGE_Diesel,GGE_Biodiesel,GGE_B20,GGE_Electricity
+Department of Defense,ARMY,Diesel,13662,0,0,5,7418512,152096,0
+Department of Defense,ARMY,E85,23927,1898899,11313239.48,0,0,0,0
+Department of Defense,ARMY,Electric,513,0,0,0,0,0,18067
+Department of Defense,ARMY,Gas,25197,0,11991215.83,0,0,0,0
+Department of Defense,DA,E85,2492,91301,810881.7386,0,0,0,0
+Department of Defense,DA,Diesel,1193,0,0,0,791716,10231,0
+Department of Defense,DA,Electric,114,0,0,0,0,0,0
+Department of Defense,DA,Gas,2617,0,748974.2614,0,0,0,0
+Department of Defense,DAF,Diesel,16048,0,0,0,5261635,1222293,0
+Department of Defense,DAF,E85,12170,1404805,3331005.54,0,0,0,0
+Department of Defense,DAF,Electric,28,0,0,0,0,0,0
+Department of Defense,DAF,Gas,19430,0,8134177.46,0,0,0,0
+Department of Defense,NAVY,E85,13848,825144,4372383.673,0,0,0,0
+Department of Defense,NAVY,Electric,1409,0,0,0,0,0,18474
+Department of Defense,NAVY,Diesel,5666,0,0,0,2763921,263804,0
+Department of Defense,NAVY,Gas,17794,0,6181815.894,0,0,0,0
+Department of Defense,USMC,Diesel,2462,0,0,0,1503559,904261,0
+Department of Defense,USMC,Electric,897,0,0,0,0,0,38901
+Department of Defense,USMC,E85,4557,1080481,1752878.348,0,0,0,0
+Department of Defense,USMC,Gas,4728,0,2388184.235,0,0,0,0
+United States Federal Government,ABMC,Gas,20,0,1753,0,0,0,0
+United States Federal Government,ABMC,Diesel,23,0,0,0,2313,0,0
+United States Federal Government,BBG,Diesel,74,0,0,0,37983,0,0
+United States Federal Government,BBG,E85,5,68,729.6666667,0,0,0,0
+United States Federal Government,BBG,Gas,78,0,37276.33333,0,0,0,0
+United States Federal Government,CPSC,Gas,56,0,13889.95506,0,0,0,0
+United States Federal Government,CPSC,Diesel,1,0,0,0,245,0,0
+United States Federal Government,CPSC,E85,34,1044,6996.044944,0,0,0,0
+United States Federal Government,CSOSA,E85,13,1929,0,0,0,0,0
+United States Federal Government,CSOSA,Gas,63,0,9051.276316,0,0,0,0
+United States Federal Government,DHS,Diesel,4571,0,0,0,3303892,19,0
+United States Federal Government,DHS,E85,19189,604056,12542901.71,0,0,0,0
+United States Federal Government,DHS,Electric,34,0,0,0,0,0,663
+United States Federal Government,DHS,Gas,29205,0,19351991.29,0,0,0,0
+United States Federal Government,DOA,Diesel,3454,0,0,0,3009630,60,0
+United States Federal Government,DOA,Electric,3,0,0,0,0,0,92
+United States Federal Government,DOA,E85,13459,320316,6411944.46,0,0,0,0
+United States Federal Government,DOA,Gas,23206,0,12471859.68,0,0,0,0
+United States Federal Government,DOC,Diesel,160,0,0,0,74496,0,0
+United States Federal Government,DOC,E85,874,68060,333137.3324,0,0,0,0
+United States Federal Government,DOC,Gas,952,0,423969.4607,0,0,0,0
+United States Federal Government,DOE,Diesel,2808,0,0,7598,2947428,712343,0
+United States Federal Government,DOE,Electric,88,0,0,0,0,0,638
+United States Federal Government,DOE,E85,6895,1593408,1627846.164,0,0,0,0
+United States Federal Government,DOE,Gas,4147,0,1943560.34,0,0,0,0
+United States Federal Government,DOED,E85,51,3796,22817.77419,0,0,0,0
+United States Federal Government,DOED,Gas,42,0,21917.22581,0,0,0,0
+United States Federal Government,DOI,E85,8687,307540,4174542.816,0,0,0,0
+United States Federal Government,DOI,Electric,151,0,0,0,0,0,9469
+United States Federal Government,DOI,Gas,17745,0,8529586.046,0,0,0,0
+United States Federal Government,DOI,Diesel,6737,0,0,4688,3995582,305438,0
+United States Federal Government,DOJ,Diesel,2409,0,0,0,1140232,20533,0
+United States Federal Government,DOJ,Gas,28098,0,14495210.95,0,0,0,0
+United States Federal Government,DOJ,E85,11736,1845643,4212288.462,0,0,0,0
+United States Federal Government,DOJ,Electric,102,0,0,0,0,0,841
+United States Federal Government,DOL,Electric,96,0,0,0,0,0,9209
+United States Federal Government,DOL,Diesel,400,0,0,4656,458143,309,0
+United States Federal Government,DOL,E85,2097,124393,1311796.02,0,0,0,0
+United States Federal Government,DOL,Gas,1401,0,959513.9803,0,0,0,0
+United States Federal Government,EEOC,E85,41,159,10437.22222,0,0,0,0
+United States Federal Government,EEOC,Gas,40,0,10337.77778,0,0,0,0
+United States Federal Government,EPA,Diesel,99,0,0,0,39933,4189,0
+United States Federal Government,EPA,E85,454,44859,187364.5154,0,0,0,0
+United States Federal Government,EPA,Gas,453,0,219569.5259,0,0,0,0
+United States Federal Government,EPA,Electric,1,0,0,0,0,0,12
+United States Federal Government,FCC,Gas,19,0,3891.361702,0,0,0,0
+United States Federal Government,FCC,E85,75,16385,0,0,0,0,0
+United States Federal Government,FHFA,Gas,2,0,710,0,0,0,0
+United States Federal Government,FHFA,E85,5,273,1502,0,0,0,0
+United States Federal Government,FMC,E85,9,874,0,0,0,0,0
+United States Federal Government,FMC,Gas,0,0,0,0,0,0,0
+United States Federal Government,GPO,E85,1,0,238.7027027,0,0,0,0
+United States Federal Government,GPO,Gas,36,0,8593.297297,0,0,0,0
+United States Federal Government,GPO,Diesel,5,0,0,0,4435,0,0
+United States Federal Government,GSA,Diesel,11,0,0,0,3284,0,0
+United States Federal Government,GSA,Gas,582,0,150818.5984,0,0,0,0
+United States Federal Government,GSA,E85,409,4516,103026.4016,0,0,0,0
+United States Federal Government,GSA,Electric,2,0,0,0,0,0,0
+United States Federal Government,HHS,Diesel,430,0,0,0,242998,21562,0
+United States Federal Government,HHS,E85,2217,100951,703704.4622,0,0,0,0
+United States Federal Government,HHS,Gas,2018,0,749392.5378,0,0,0,0
+United States Federal Government,HUD,E85,196,535,78091.94737,0,0,0,0
+United States Federal Government,HUD,Gas,169,0,71691.05263,0,0,0,0
+United States Federal Government,ITC,Gas,2,0,469,0,0,0,0
+United States Federal Government,LOC,E85,4,0,2514,0,0,0,0
+United States Federal Government,LOC,Gas,4,0,2514,0,0,0,0
+United States Federal Government,LOC,Diesel,5,0,0,0,3880,0,0
+United States Federal Government,NARA,Electric,1,0,0,0,0,0,6
+United States Federal Government,NARA,Diesel,9,0,0,0,6801,0,0
+United States Federal Government,NARA,E85,42,3096,11574.6,0,0,0,0
+United States Federal Government,NARA,Gas,8,0,2794.4,0,0,0,0
+United States Federal Government,NASA,Electric,347,0,0,0,0,0,8652
+United States Federal Government,NASA,Gas,863,0,269553.0466,0,0,0,0
+United States Federal Government,NASA,Diesel,508,0,0,0,161428,84971,0
+United States Federal Government,NASA,E85,1601,318021,199873.1747,0,0,0,0
+United States Federal Government,NATL GALLERY,Diesel,3,0,0,0,1283,0,0
+United States Federal Government,NATL GALLERY,Gas,8,0,2986,0,0,0,0
+United States Federal Government,NLRB,E85,8,66,2095.882353,0,0,0,0
+United States Federal Government,NLRB,Gas,26,0,7026.117647,0,0,0,0
+United States Federal Government,NRC,Diesel,3,0,0,0,1628,0,0
+United States Federal Government,NRC,E85,10,103,3973.521739,0,0,0,0
+United States Federal Government,NRC,Gas,13,0,5299.478261,0,0,0,0
+United States Federal Government,NSF,Diesel,213,0,0,0,146922,0,0
+United States Federal Government,NSF,E85,44,5980,18364.17589,0,0,0,0
+United States Federal Government,NSF,Gas,307,0,161499.2527,0,0,0,0
+United States Federal Government,NTSB,Gas,1,0,346.8,0,0,0,0
+United States Federal Government,NTSB,E85,4,0,1387.2,0,0,0,0
+United States Federal Government,OPM,E85,396,5629,155098.7273,0,0,0,0
+United States Federal Government,OPM,Gas,1056,0,428607.2727,0,0,0,0
+United States Federal Government,PEACE CORPS,Gas,170,0,89420.47368,0,0,0,0
+United States Federal Government,PEACE CORPS,Diesel,470,0,0,0,356784,0,0
+United States Federal Government,PEACE CORPS,E85,7,75,2009.526316,0,0,0,0
+United States Federal Government,PSA,Gas,2,0,65,0,0,0,0
+United States Federal Government,SBA,Diesel,1,0,0,0,451,0,0
+United States Federal Government,SBA,E85,94,887,36033.16774,0,0,0,0
+United States Federal Government,SBA,Gas,61,0,23958.83226,0,0,0,0
+United States Federal Government,SI,Diesel,97,0,0,0,22582,1682,0
+United States Federal Government,SI,E85,103,15252,8011.694686,0,0,0,0
+United States Federal Government,SI,Electric,28,0,0,0,0,0,2
+United States Federal Government,SI,Gas,231,0,44892.99762,0,0,0,0
+United States Federal Government,SSA,Diesel,27,0,0,0,19415,14222,0
+United States Federal Government,SSA,E85,340,43532,146174.5268,0,0,0,0
+United States Federal Government,SSA,Electric,2,0,0,0,0,0,16
+United States Federal Government,SSA,Gas,89,0,49658.47319,0,0,0,0
+United States Federal Government,STATE,Electric,20,0,0,0,0,0,31261
+United States Federal Government,STATE,Diesel,4192,0,0,0,1879264,0,0
+United States Federal Government,STATE,E85,1140,11274,455261.4223,0,0,0,0
+United States Federal Government,STATE,Gas,8243,0,3582693.578,0,0,0,0
+United States Federal Government,TRANS,Gas,2933,0,1393663.889,0,0,0,0
+United States Federal Government,TRANS,Diesel,292,0,0,0,260971,166,0
+United States Federal Government,TRANS,E85,2897,199774,1192293.111,0,0,0,0
+United States Federal Government,TREAS,E85,1227,65768,455201.1254,0,0,0,0
+United States Federal Government,TREAS,Gas,2295,0,984183.1824,0,0,0,0
+United States Federal Government,TREAS,Diesel,12,0,0,0,5040,0,0
+United States Federal Government,TVA,Electric,4,0,0,0,0,0,184
+United States Federal Government,TVA,Gas,1238,0,1261011.912,0,0,0,0
+United States Federal Government,TVA,Diesel,115,0,0,0,332824,0,0
+United States Federal Government,TVA,E85,1240,29184,1233865.088,0,0,0,0
+United States Federal Government,USAID,Diesel,1,0,0,0,251,0,0
+United States Federal Government,USAID,Gas,5,0,1426,0,0,0,0
+United States Federal Government,VA,Diesel,1818,0,0,0,2123368,65392,0
+United States Federal Government,VA,E85,8493,1444461,3103457.507,0,0,0,0
+United States Federal Government,VA,Electric,123,0,0,0,0,0,1280
+United States Federal Government,VA,Gas,8597,0,4879499.955,0,0,0,0
+United States Federal Government,USACE,E85,3525,32700,2068715.538,0,0,0,0
+United States Federal Government,USACE,Electric,11,0,0,0,0,0,592
+United States Federal Government,USACE,Gas,3036,0,1707839.462,0,0,0,0
+United States Federal Government,USACE,Diesel,887,0,0,0,483638,1443,0
+United States Federal Government,USPS,E85,41124,394461,27078751.62,0,0,0,0
+United States Federal Government,USPS,Diesel,12180,0,0,0,30614297,1543950,0
+United States Federal Government,USPS,Electric,49,0,0,0,0,0,2973
+United States Federal Government,USPS,Gas,154216,0,103025215.4,0,0,0,0
